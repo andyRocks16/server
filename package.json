@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/archfirst/trader-desktop"
+    "url": "https://github.com/andyRocks16/server"
   },
   "dependencies": {
     "body-parser": "^1.8.1",
